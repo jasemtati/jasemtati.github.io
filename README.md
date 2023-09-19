@@ -48,7 +48,7 @@ Some text
 
 ```text
 assets/new folder/math203
-└──├── math203.ext
+└──├── MATH203.pdf
    
     
 ```
