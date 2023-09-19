@@ -45,10 +45,10 @@ Here goes all the budgets
 ## What's included
 
 Some text
-assets/new folder/MATH 203.pdf
+
 ```text
 assets/new folder/math203
-└──├── MATH203.pdf
+- MATH203.pdf
    
     
 ```
