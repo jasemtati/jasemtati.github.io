@@ -47,8 +47,8 @@ Here goes all the budgets
 Some text
 
 ```text
-assets/new folder/math203
-- MATH203.pdf
+https://<jasemtati>.github.io/<jasemtati>/assets/new folder/MATH 203.pdf
+
    
     
 ```
