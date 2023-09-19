@@ -47,7 +47,8 @@ Here goes all the budgets
 Some text
 
 ```text
-https://<jasemtati>.github.io/<jasemtati>/assets/new folder/MATH 203.pdf
+<embed src="assets/new folder/MATH 203.pdf" type="application/pdf" width="100%" height="800px" />
+
 
    
     
