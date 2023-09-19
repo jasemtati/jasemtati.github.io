@@ -47,14 +47,10 @@ Here goes all the budgets
 Some text
 
 ```text
-folder1/
-└── folder2/
-    ├── folder3/
-    │   ├── file1
-    │   └── file2
-    └── folder4/
-        ├── file3
-        └── file4
+assets/new folder/math203
+└──├── math203.ext
+   
+    
 ```
 
 ## Bugs and feature requests
