@@ -44,7 +44,8 @@ Here goes all the budgets
 
 ## What's included
 
-Some text
+[I'm an inline-style link](https://www.google.com)
+
 [seation1](/assets/new folder/MATH 203.pdf)
 
 
