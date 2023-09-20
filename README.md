@@ -45,12 +45,10 @@ Here goes all the budgets
 ## What's included
 
 Some text
+<object data="assets/new folder/MATH 203.pdf" width="1000" height="1000" type='application/pdf'/>
 
-<object data="assets/new folder/MATH 203.pdf" type="application/pdf" width="700px" height="700px">
-  <embed src="assets/new folder/MATH 203.pdf">
-  <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets/new folder/MATH 203.pdf">Download PDF</a>.</p>
-  </embed>
-</object>
+
+
 
 
 ## Bugs and feature requests
