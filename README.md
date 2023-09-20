@@ -18,7 +18,7 @@ A markdown template for any project, resume, github repo or whatever
 </p>
 
 
- [session1](https://jasemtati.github.io/assets/Weak characterization.pdf) 
+ [download pdf](https://belovanna.github.io/assets/mydoc.pdf)
 ## Table of contents
 
 - [Quick start](#quick-start)
