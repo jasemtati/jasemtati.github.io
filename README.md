@@ -18,7 +18,7 @@ A markdown template for any project, resume, github repo or whatever
 </p>
 
 
- [download pdf](https://jasemtati.github.io/assets/mydoc.pdf)
+ [download pdf](https://jasemtati.github.io/asset/mydoc.pdf)
 ## Table of contents
 
 - [Quick start](#quick-start)
