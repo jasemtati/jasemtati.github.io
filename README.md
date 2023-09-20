@@ -19,7 +19,7 @@ A markdown template for any project, resume, github repo or whatever
 
 
  [download pdf](https://jasemtati.github.io/assets/new folder
-/MATH 203.pdf) 
+/math203.pdf) 
 ## Table of contents
 
 - [Quick start](#quick-start)
