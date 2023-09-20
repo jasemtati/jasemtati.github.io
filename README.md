@@ -44,14 +44,12 @@ Here goes all the budgets
 
 ## What's included
 
-[I'm an inline-style link](https://www.jasemtati.github.io/assets/new folder
-/MATH 203.pdf)
-
-[seation1](/assets/new folder/MATH 203.pdf)
 
 
 
 
+<embed src="https://jasemtati.github.io/assets/new folder
+/MATH 203.pdf" type="application/pdf" />
 
 
 
