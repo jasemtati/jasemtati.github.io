@@ -17,6 +17,9 @@ A markdown template for any project, resume, github repo or whatever
   </p>
 </p>
 
+<object data="/assets/new folder
+/MATH 203.pdf" width="1000" height="1000" type='application/pdf'/>
+
 
 ## Table of contents
 
